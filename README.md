@@ -3,10 +3,10 @@ Keras implementation for the Multi-Task Learning &amp; Task-Grouping Model as de
 
 ## Instructions
 * Clone the repository
-* Install requirements according `requirements.txt`
+* Install requirements according to `requirements.txt`
   * Use `pip install -r requirements.txt`
-* Download word bio-nlp embedding from [here](https://drive.google.com/file/d/0BzMCqpcgEJgiUWs0ZnU0NlFTam8/view)
-   * Place `PubMed-shuffle-win-30.bin` in the path: `data/bio-nlp-vec`
+* Download word bio-nlp embedding [here](https://drive.google.com/file/d/0BzMCqpcgEJgiUWs0ZnU0NlFTam8/view)
+   * Place `PubMed-shuffle-win-30.bin` in the path: `data/bio-nlp-vec/`
 * Follow jupyter notebook `multitask_learning_with_task_grouping_for_lee.ipynb` for training end evaluating
 
 ## Data
